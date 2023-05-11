@@ -1,0 +1,22 @@
+[
+        {
+                "header":"blabla",
+                "title":"Veganka",
+                "img":"/project-1.png"
+        },
+        {
+                "header":"blabla",
+                "title":"Soul Pub",
+                "img":"/project-2.png"
+        },
+        {
+                "header":"blabla",
+                "title":"Granma",
+                "img":"/project-3.png"
+        },
+        {
+                "header":"blabla",
+                "title":"Paper Coffee Co.",
+                "img":"/project-4.png"
+        }
+]
